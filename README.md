@@ -1,13 +1,5 @@
 # Yew Parcel Template
 
-<div align="center">
-    <p>
-        <a href="https://discord.gg/ZHWmUaf" target="_blank"><img alt="Discord Chat" src="https://img.shields.io/badge/Discord-Spielrs%20-yellowgreen"/></a>
-        <a href="https://github.com/spielrs/yew-parcel-template/blob/master/LICENSE" target="_blank"><img alt="License" src="https://img.shields.io/badge/License-MIT%20-lightgrey"></a>
-        <a href="https://paypal.me/dancespiele?locale.x=en_US" target="_blank"><img alt="Donate by Paypal" src="https://img.shields.io/badge/Donate-PayPal-green.svg"/></a>
-    </p>
-</div>
-
 **Kickstart your Yew, Yew-Router, WebAssembly, and Parcel project!**
 
 This template comes pre-configured with all the boilerplate for compiling [Yew framework](https://yew.rs/docs/en/intro/) and [Yew Router](https://yew.rs/docs/en/concepts/router/)
@@ -97,11 +89,6 @@ into the `dist` not the directory itself
 ## Limitations
 If the server is closed while pages are still serving and after it is running again, the browser will not synchronize again with the server until
 you refresh the pages manually.
-
-## Do you like Yew Parcel Template?
-If you like Yew Parcel Template, help us supporting the project:
-- BAT rewards in case that you use [Brave Browser](https://brave.com/)
-- Using this link to create an account in [Binance](https://www.binance.com/en/register?ref=DB8EPXF0) (get 10% fee back for every trading)
 
 ## Rustc Version Required
 
