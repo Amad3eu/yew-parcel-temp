@@ -30,7 +30,7 @@ impl Component for About {
                 </Item>
                 <Item layouts=vec!(ItemLayout::ItXs(12))>
                     <p>{"Yew Parcel Template is a "}
-                        <a href="https://github.com/spielrs/yew-parcel-template/blob/master/LICENSE">{"MIT licensed "}</a>
+                        <a href="https://github.com/Amad3eu/yew-parcel-template/blob/master/LICENSE">{"MIT licensed "}</a>
                         {"project maintained by open source comunity"}
                     </p>
                 </Item>
