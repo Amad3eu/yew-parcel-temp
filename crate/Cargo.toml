@@ -5,7 +5,7 @@ description = "My awesome Yew with Yew-Router and Parcel application!"
 license = "MIT"
 name = "yew-parcel"
 readme = "./README.md"
-repository = "https://github.com/spielrs/yew-parcel-template.git"
+repository = "https://github.com/Amad3eu/yew-parcel-template.git"
 version = "0.18.0"
 
 [lib]
