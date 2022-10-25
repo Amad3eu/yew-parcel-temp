@@ -65,7 +65,7 @@ impl Component for App {
                     navbar_palette=Palette::Info
                     navbar_style=Style::Outline
                     fixed=Fixed::Top
-                    branch=html!{<img src="./spielrs_logo.png"/>}
+                    branch=html!{<img src="./amadeu_logo.png"/>}
                 >
                     <NavbarContainer>
                         <NavbarItem
